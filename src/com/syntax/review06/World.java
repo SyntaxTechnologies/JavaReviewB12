@@ -19,6 +19,7 @@ public class World {
 		
 		//human1.tired();CE: tired method was not defined in the Human class
 		
+		new Human();
 		
 		
 		
